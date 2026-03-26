@@ -1,6 +1,6 @@
 <p align="center">
   <strong>MunchMatch</strong><br/>
-  Decide where to eat — solo or with your group — with swipe-based voting and a clear winner!
+  Decide where to eat — solo or with your group — swipe.eat. vote!
 </p>
 
 <p align="center">
