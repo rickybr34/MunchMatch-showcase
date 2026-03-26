@@ -64,7 +64,31 @@ The app is in **active development**, targeting **TestFlight** first, then the *
 
 ## Screenshots
 
-<p align="center"></p>
+<p align="center">
+  <img src="screenshots/1-home.PNG" width="200" alt="Home" />
+  <img src="screenshots/2-home.PNG" width="200" alt="Home" />
+  <img src="screenshots/3-home.PNG" width="200" alt="Home" />
+  <img src="screenshots/4-home.PNG" width="200" alt="Home" />
+</p>
+<p align="center">
+  <img src="screenshots/5-solo.PNG" width="200" alt="Solo" />
+  <img src="screenshots/6-results.PNG" width="200" alt="Results" />
+  <img src="screenshots/7-details.PNG" width="200" alt="Place detail" />
+  <img src="screenshots/8-join.PNG" width="200" alt="Join room" />
+</p>
+<p align="center">
+  <img src="screenshots/9-noti.PNG" width="200" alt="Notification" />
+  <img src="screenshots/10-lobby.PNG" width="200" alt="Lobby" />
+  <img src="screenshots/11-lobby.PNG" width="200" alt="Lobby" />
+  <img src="screenshots/12-lobby.PNG" width="200" alt="Lobby" />
+</p>
+<p align="center">
+  <img src="screenshots/13-history.PNG" width="200" alt="History" />
+</p>
+
+## Demo
+
+[Screen recording (MP4)](demo/munchmatch-demo.mp4)
 
 ---
 
