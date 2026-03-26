@@ -1,6 +1,6 @@
 <p align="center">
   <strong>MunchMatch</strong><br/>
-  Decide where to eat — solo or with your group — with swipe-based voting and a clear winner.
+  Decide where to eat — solo or with your group — with swipe-based voting and a clear winner!
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## Overview
 
-**MunchMatch** is an iOS app for choosing restaurants without the endless group chat. It supports **solo discovery** and **group sessions**: create or join a room, share preferences, swipe on place cards (Tinder-style), vote, and land on a **single winner** everyone can open together.
+**MunchMatch** have you or your friends ever been hungry and you both said "where do you want to eat" and go back and forth? Well now you and or your friends can decide on where to eat together. Tis an iOS app for choosing restaurants without the endless group chat. It supports **solo discovery** and **group sessions**: create or join a room, share preferences, swipe on place cards (Tinder-style), vote, and land on a **single winner** everyone can open together.
 
 The app is in **active development**, targeting **TestFlight** first, then the **App Store**.
 
@@ -23,7 +23,7 @@ The app is in **active development**, targeting **TestFlight** first, then the *
 
 ## Features
 
-- **Solo mode** — Find and filter places near you using location-aware search.  
+- **Solo mode** — Find and filter places near you using location-aware search and find local restaurants!  
 - **Group rooms** — Create or join a session with a code; optional sharing via link or QR-style flows where supported.  
 - **Preferences** — Capture cravings and filters so suggestions match what the group wants.  
 - **Swipe voting** — Card-based UI for fast yes/no decisions on restaurants.  
