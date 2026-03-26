@@ -13,7 +13,7 @@
 
 ## Overview
 
-**MunchMatch** have you or your friends ever been hungry and you both said "where do you want to eat" and go back and forth? Well now you and or your friends can decide on where to eat together. Tis an iOS app for choosing restaurants without the endless group chat. It supports **solo discovery** and **group sessions**: create or join a room, share preferences, swipe on place cards (Tinder-style), vote, and land on a **single winner** everyone can open together.
+have you or your friends ever been hungry and you both said "where do you want to eat" and go back and forth? Well now you and or your friends can decide on where to eat together. Tis an iOS app for choosing restaurants without the endless group chat. It supports **solo discovery** and **group sessions**: create or join a room, share preferences, swipe on place cards (Tinder-style), vote, and land on a **single winner** everyone can open together.
 
 The app is in **active development**, targeting **TestFlight** first, then the **App Store**.
 
