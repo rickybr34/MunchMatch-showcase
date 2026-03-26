@@ -75,7 +75,7 @@ The app is in **active development**, targeting **TestFlight** first, then the *
 | **TestFlight** | — |
 | **App Store** | — |
 | **Privacy policy** | — |
-| **Portfolio** | — |
+| **Portfolio** | www.ricardobrutus.com |
 
 ---
 
