@@ -49,7 +49,7 @@ The app is in **active development**, targeting **TestFlight** first, then the *
 | Milestone | State |
 |-----------|--------|
 | Core product | In development |
-| **TestFlight** | Planned / in progress |
+| **TestFlight** | [Link](https://testflight.apple.com/join/XRBbsf1M) |
 | **App Store** | Planned after TestFlight |
 
 ---
