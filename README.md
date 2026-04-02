@@ -96,7 +96,7 @@ The app is in **active development**, targeting **TestFlight** first, then the *
 
 | Resource | URL |
 |----------|-----|
-| **TestFlight** | — |
+| **TestFlight** | https://testflight.apple.com/join/XRBbsf1M |
 | **App Store** | — |
 | **Privacy policy** | — |
 | **Portfolio** | www.ricardobrutus.com |
